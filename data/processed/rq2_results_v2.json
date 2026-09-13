@@ -1,0 +1,12 @@
+{
+  "method": "walk-forward refit every 20 trading days (23 refits)",
+  "n_train_initial": 1830,
+  "n_test": 458,
+  "n_test_rf": 457,
+  "garch_rmse_walkforward": 0.23118618096225607,
+  "garch_rmse_single_fit_previous": 0.22347798483614126,
+  "rf_rmse": 0.22730471514639264,
+  "naive_rmse": 0.2978254347238734,
+  "dm_like_stat_wf_vs_rf": 0.27754441751480385,
+  "dm_like_p_wf_vs_rf": 0.7814878876999529
+}

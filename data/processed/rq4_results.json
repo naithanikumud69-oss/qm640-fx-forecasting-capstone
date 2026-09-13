@@ -1,0 +1,11 @@
+{
+  "n_fomc_dates_total": 71,
+  "n_events_matched": 71,
+  "mean_pre_event_abs_ret_pct": 0.22697185353745652,
+  "mean_post_event_abs_ret_pct": 0.22254078426838939,
+  "pct_increase": -1.9522549602547492,
+  "paired_t_stat": -0.20395365460295597,
+  "paired_t_p": 0.8389815055061123,
+  "wilcoxon_stat": 1099.0,
+  "wilcoxon_p": 0.305061015533975
+}

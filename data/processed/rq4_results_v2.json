@@ -1,0 +1,26 @@
+{
+  "n_events_matched": 71,
+  "median_surprise_bp": 2.0000000000000018,
+  "overall": {
+    "mean_pre": 0.22697185353745652,
+    "mean_post": 0.22254078426838939,
+    "paired_t_stat": -0.20395365460295597,
+    "paired_t_p": 0.8389815055061123
+  },
+  "high_surprise_half": {
+    "n": 36,
+    "mean_pre": 0.22776696141247565,
+    "mean_post": 0.23284377454210686,
+    "pct_increase": 2.2289506336423086,
+    "paired_t_stat": 0.15701987278032764,
+    "paired_t_p": 0.8761314958485045
+  },
+  "low_surprise_half": {
+    "n": 35,
+    "mean_pre": 0.2261540282945797,
+    "mean_post": 0.21194342284399426,
+    "pct_increase": -6.283595988869695,
+    "paired_t_stat": -0.48487904366753626,
+    "paired_t_p": 0.6308716075780834
+  }
+}
