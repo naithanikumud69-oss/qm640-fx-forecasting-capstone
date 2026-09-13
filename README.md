@@ -9,8 +9,14 @@ direction and volatility for four currency pairs (USD/INR, EUR/USD, GBP/USD, USD
 exclusively free, public, non-Kaggle data sources (FRED, World Bank, Eurostat, and the official
 FOMC policy calendar).
 
-See [`reports/QM640_Final_Report_Group8.pdf`](reports/QM640_Final_Report_Group8.pdf) for the full
-write-up — background, literature review, methodology, results, limitations, and bibliography.
+The `reports/` folder contains all four project deliverables, in chronological order:
+
+| Report | Description |
+|---|---|
+| [`QM640_Capstone_Synopsis_Final.pdf`](reports/QM640_Capstone_Synopsis_Final.pdf) | Initial proposal: problem statement, research questions and hypotheses, planned methodology, sample-size calculations. |
+| [`QM640_Interim_Report_Graded_Group8.pdf`](reports/QM640_Interim_Report_Graded_Group8.pdf) | Graded interim checkpoint: literature review, data collection status, EDA, and a single-predictor pilot regression. |
+| [`QM640_Final_Report_Group8.pdf`](reports/QM640_Final_Report_Group8.pdf) | **The full write-up** — background, literature review, methodology, complete RQ1/RQ2/RQ4 results, limitations, and bibliography. Start here. |
+| [`QM640_Final_Presentation_Group8.pdf`](reports/QM640_Final_Presentation_Group8.pdf) | Slide deck summarizing the final report for live presentation. |
 
 ## Repository structure
 
@@ -30,7 +36,8 @@ notebooks/                    The three core analysis scripts, referenced as App
 figures/                      All figures embedded in the final report and presentation.
 build_scripts/                The reportlab scripts that generate the final report PDF and the
                               final presentation PDF directly from the processed results.
-reports/                      Final deliverables: the final report and final presentation PDFs.
+reports/                      All four deliverables: synopsis, graded interim report, final
+                              report, and final presentation (see table above).
 ```
 
 ## Reproducing the results
